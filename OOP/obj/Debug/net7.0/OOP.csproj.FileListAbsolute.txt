@@ -1,0 +1,14 @@
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\bin\Debug\net7.0\OOP.exe
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\bin\Debug\net7.0\OOP.dll
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\bin\Debug\net7.0\OOP.pdb
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.dll
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.pdb
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\Ilham Kusuma Aryanda\BelajarGameC#\OOP\obj\Debug\net7.0\ref\OOP.dll
